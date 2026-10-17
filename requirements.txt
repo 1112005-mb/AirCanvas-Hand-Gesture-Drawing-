@@ -1,0 +1,7 @@
+# Hand Gesture Recognition and Air Canvas Drawing System
+# Tested with Python 3.10 - 3.12 (Windows / Linux / macOS)
+
+opencv-python>=4.8.0
+mediapipe>=0.10.14,<0.11.0
+numpy>=1.24.0
+pyautogui>=0.9.54
